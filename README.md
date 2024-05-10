@@ -1,8 +1,6 @@
-- 👋 Hi, I’m @chemchetchagio
-- 👀 I’m interested in code
-- 🌱 I’m currently learning css and java
-- 💞️ I’m looking to collaborate on idk
-- 📫 How to reach me sent me a gianghainam.edu2021@outlook.com.vn
+chào :3
+X(aka tw):@nnam3009/@nhatnam9611
+telegram:no longer 
 
 <!---
 chemchetchagio/chemchetchagio is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
